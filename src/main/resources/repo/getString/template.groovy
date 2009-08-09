@@ -1,1 +1,1 @@
-das ist ein beispiel: ${node.name}
+This is a text file sample. Recognized element: ${in.name}
