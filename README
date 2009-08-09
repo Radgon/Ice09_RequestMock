@@ -1,3 +1,7 @@
 #############################
 # Sample Code for Blog post #
 #############################
+
+1. Configure the REPOSITORY location in spring config
+2. mvn clean install war:war jetty:run
+3. Use RequestMockClient or soapUI to test the service
