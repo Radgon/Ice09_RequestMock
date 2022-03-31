@@ -52,7 +52,7 @@
 	</dependencies>
 	<properties>
 		<jetty-version>6.1.7</jetty-version>
-		<spring-version>2.5.6</spring-version>
+		<spring-version>5.3.18</spring-version>
 		<commons-logging-version>1.1</commons-logging-version>
 		<groovy-version>1.7-beta-1</groovy-version>
 	</properties>
